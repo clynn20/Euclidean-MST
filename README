@@ -1,0 +1,5 @@
+This is a program to determine the weight of a MST in a graph G =(V, E) where the vertices are points in the plane and the weight of the edge between each pair of points is the Euclidean distance between those points. Assume that the graph G = (V, E) is complete so that there is an edge between every two vertices. The program will read information about the graph from a file called graph.txt. The first line in graph.txt is the number of tests cases (k<=10) followed by the number of vertices in the test case (n<=100) and the coordinates of the points(vertices) in that test case.
+
+Use command make to compile program 
+Then the below command to run the program
+	./mst
